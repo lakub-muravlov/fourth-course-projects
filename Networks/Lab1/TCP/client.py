@@ -10,8 +10,8 @@ PORT = 8080
 intArr = []
 charArr = []
 
-for i in range(0,7):
-    if(i<5):
+for i in range(0,8):
+    if(i<6):
         intArr.append(random.randrange(0,100))
         charArr.append((random.choice(string.ascii_letters)))
     else:
