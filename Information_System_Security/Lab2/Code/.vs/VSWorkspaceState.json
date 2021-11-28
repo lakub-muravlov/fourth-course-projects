@@ -2,6 +2,12 @@
   "ExpandedNodes": [
     "",
     "\\Bis2",
+    "\\Bis2\\Cryptography",
+    "\\Bis2\\Cryptography\\Abstractions",
+    "\\Bis2\\Cryptography\\Algorithms",
+    "\\Bis2\\Cryptography\\KeyBuilders",
+    "\\Bis2\\Enums",
+    "\\Bis2\\Options",
     "\\Bis2\\Resources"
   ],
   "SelectedNode": "\\Bis2\\Program.cs",
