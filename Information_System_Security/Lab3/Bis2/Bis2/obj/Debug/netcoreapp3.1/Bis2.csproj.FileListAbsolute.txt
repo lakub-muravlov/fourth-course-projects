@@ -1,0 +1,13 @@
+D:\Labs\Andrey\Bis2\Bis2\obj\Debug\netcoreapp3.1\Bis2.csprojAssemblyReference.cache
+D:\Labs\Andrey\Bis2\Bis2\obj\Debug\netcoreapp3.1\Bis2.AssemblyInfoInputs.cache
+D:\Labs\Andrey\Bis2\Bis2\obj\Debug\netcoreapp3.1\Bis2.AssemblyInfo.cs
+D:\Labs\Andrey\Bis2\Bis2\obj\Debug\netcoreapp3.1\Bis2.csproj.CoreCompileInputs.cache
+D:\Labs\Andrey\Bis2\Bis2\bin\Debug\netcoreapp3.1\Bis2.exe
+D:\Labs\Andrey\Bis2\Bis2\bin\Debug\netcoreapp3.1\Bis2.deps.json
+D:\Labs\Andrey\Bis2\Bis2\bin\Debug\netcoreapp3.1\Bis2.runtimeconfig.json
+D:\Labs\Andrey\Bis2\Bis2\bin\Debug\netcoreapp3.1\Bis2.runtimeconfig.dev.json
+D:\Labs\Andrey\Bis2\Bis2\bin\Debug\netcoreapp3.1\Bis2.dll
+D:\Labs\Andrey\Bis2\Bis2\bin\Debug\netcoreapp3.1\Bis2.pdb
+D:\Labs\Andrey\Bis2\Bis2\obj\Debug\netcoreapp3.1\Bis2.dll
+D:\Labs\Andrey\Bis2\Bis2\obj\Debug\netcoreapp3.1\Bis2.pdb
+D:\Labs\Andrey\Bis2\Bis2\obj\Debug\netcoreapp3.1\Bis2.genruntimeconfig.cache

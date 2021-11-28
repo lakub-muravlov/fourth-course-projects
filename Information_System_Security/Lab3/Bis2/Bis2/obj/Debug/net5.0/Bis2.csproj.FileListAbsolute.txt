@@ -1,0 +1,16 @@
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\bin\Debug\net5.0\Bis2.exe
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\bin\Debug\net5.0\Bis2.deps.json
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\bin\Debug\net5.0\Bis2.runtimeconfig.json
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\bin\Debug\net5.0\Bis2.runtimeconfig.dev.json
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\bin\Debug\net5.0\Bis2.dll
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\bin\Debug\net5.0\ref\Bis2.dll
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\bin\Debug\net5.0\Bis2.pdb
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.csproj.AssemblyReference.cache
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.AssemblyInfoInputs.cache
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.AssemblyInfo.cs
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.csproj.CoreCompileInputs.cache
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.dll
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\ref\Bis2.dll
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.pdb
+D:\Documents\fourth-course-projects\Information_System_Security\Lab3\Bis2\Bis2\obj\Debug\net5.0\Bis2.genruntimeconfig.cache
