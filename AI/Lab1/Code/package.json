@@ -1,0 +1,21 @@
+{
+	"name": "code",
+	"version": "1.0.0",
+	"description": "TSP genetic algorithm",
+	"main": "index.js",
+	"source": "index.html",
+	"scripts": {
+		"start": "parcel",
+		"build": "parcel build",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"parcel": "^2.0.1"
+	},
+	"dependencies": {
+		"numjs": "^0.16.1",
+		"pandas-js": "^0.2.4"
+	}
+}
