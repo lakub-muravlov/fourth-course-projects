@@ -1,0 +1,23 @@
+One of the earliest appearance-based multiview algorithms was described by Beymer [6].
+After a pose estimation step, the algorithm geometrically aligns the probe images to candidate
+poses of the gallery subjects using the automatically determined locations of three feature
+points. This alignment is then refined using optical flow. Recognition is performed by computing
+normalized correlation scores. Good recognition results are reported on a database of 62
+subjects imaged in a number of poses ranging from -30? to +30? (yaw) and from -20? to +20?
+(pitch). However, the probe and gallery poses are similar. Pentland et al. [37] extended the popular
+eigenface approach of Turk and Pentland [47] is extended to handle multiple views. The
+authors compare the performance of a parametric eigenspace (computed using all views from
+all subjects) with view-based eigenspaces (separate eigenspaces for each view). In experiments
+on a database of 21 people recorded in nine evenly spaced views from minus 90? to +90?,
+view-based eigenspaces outperformed the parametric eigenspace by a small margin.
+A number of 2D model-based algorithms have been proposed for face tracking through large
+pose changes. In one study [13] separate active appearance models were trained for profile,
+half-profile, and frontal views, with models for opposing views created by simple reflection.
+Using a heuristic for switching between models, the system was able to track faces through
+wide angle changes. It has been shown that linear models are able to deal with considerable
+pose variation so long as all the modeled features remained visible [32]. A different way of
+dealing with larger pose variations is then to introduce nonlinearities into the model. Romdhani
+et al. extended active shape models [41] and active appearance models [42] using a kernel PCA
+to model shape and texture nonlinearities across views. In both cases models were successfully
+fit to face images across a full 180? rotation. However, no face recognition experiments were
+performed.
