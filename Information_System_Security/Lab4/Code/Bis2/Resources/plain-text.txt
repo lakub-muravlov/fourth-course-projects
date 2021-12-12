@@ -1,0 +1,21 @@
+﻿The last decade has seen automatic face recognition evolve from small-scale research systems
+to a wide range of commercial products. Driven by the FERET face database and evaluation
+protocol, the currently best commercial systems achieve verification accuracies comparable to
+those of fingerprint recognizers. In these experiments, only frontal face images taken under
+controlled lighting conditions were used. As the use of face recognition systems expands toward
+less restricted environments, the development of algorithms for view and illumination
+invariant face recognition becomes important. However, the performance of current algorithms
+degrades significantly when tested across pose and illumination, as documented in a number
+of evaluations. In this chapter we review previously proposed algorithms for pose and illumination
+invariant face recognition. We then describe in detail two successful appearance-based
+algorithms for face recognition across pose, eigen light-fields, and Bayesian face subregions.
+We furthermore show how both of these algorithms can be extended toward face recognition
+across pose and illumination.
+1 Introduction
+The most recent evaluation of commercial face recognition systems shows the level of performance
+for face verification of the best systems to be on par with fingerprint recognizers for
+frontal, uniformly illuminated faces [38]. Recognizing faces reliably across changes in pose
+and illumination has proved to be a much more difficult problem [9, 24, 38]. Although most
+research has so far focused on frontal face recognition, there is a sizable body of work on pose
+invariant face recognition and illumination invariant face recognition. However, face recognition
+across pose and illumination has received little attention.
