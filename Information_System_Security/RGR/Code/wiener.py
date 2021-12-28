@@ -71,3 +71,10 @@ def attack(e: int, n: int) -> Optional[int]:
             g = edg - phi * k
             return dg // g
     return None
+
+def main():
+    y, g, p = 2, 10, 19
+    print(attack(353, 13665))
+
+if __name__== "__main__":
+    main()

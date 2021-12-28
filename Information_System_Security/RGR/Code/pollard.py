@@ -131,3 +131,11 @@ def extended_euclidean_algorithm(a: int, b: int) -> tuple[int, int, int]:
         old_t, t = t, old_t - q * t
 
     return old_s, old_t, old_r
+
+def main():
+    y, g, p = 2, 10, 19
+    x = pollard_rho(g,y,p)
+    print(x % p-1)
+
+if __name__== "__main__":
+    main()

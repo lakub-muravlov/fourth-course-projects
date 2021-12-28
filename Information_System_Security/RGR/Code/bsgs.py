@@ -1,6 +1,6 @@
 from math import ceil, sqrt
 
-def bsgs(g, y, p, verify: bool = False):
+def bsgs(g, y, p, verify):
     """
     Алгоритм Гельфорда-Шенкса
     :param g: g з рівняння g^x = y (mod n). g > 0.
@@ -17,13 +17,13 @@ def bsgs(g, y, p, verify: bool = False):
 
     # В даній хешмапі зберігаємо обчислені p^j
     table = dict()
-
     # Заповнюємо хешмапу та визначаємо всі g^j
     g_raised_to_j = 1
     for j in range(0, m):
         table[g_raised_to_j] = j
         g_raised_to_j = (g_raised_to_j * g) % p
     
+    print(table)
     #Маємо визначити g^(-im)
     # для цього спочатку визначаємо g^(-m) та підносимо його до степеню в циклі
     g_raised_to_minus_m = pow(g, p-(m+1), p)
@@ -33,7 +33,6 @@ def bsgs(g, y, p, verify: bool = False):
         if temp in table:
             return (i * m) + table[temp]
         temp = (temp * g_raised_to_minus_m) % p
-    print("fgdfgj")
     return -1
 
 def is_prime(n: int) -> bool:
@@ -61,3 +60,11 @@ def is_prime(n: int) -> bool:
             return False
         divisor += 6
     return True
+
+def main():
+    y, g, p = 2, 10, 19    
+    x = bsgs(y, g, p, True)
+    print(x % p-1)
+
+if __name__== "__main__":
+  main()
